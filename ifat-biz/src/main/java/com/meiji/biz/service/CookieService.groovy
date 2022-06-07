@@ -1,5 +1,4 @@
 package com.meiji.biz.service
-
 import com.miyuan.ifat.support.util.HttpUtil
 import com.miyuan.ifat.support.util.MD5Utils
 import com.miyuan.ifat.support.util.TokenUtil

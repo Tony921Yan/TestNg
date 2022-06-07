@@ -1,6 +1,4 @@
 package com.meiji.biz.request.http.lottery
-
-
 import com.miyuan.ifat.support.test.TestContext
 import com.miyuan.ifat.support.util.HttpUtil
 import com.miyuan.ifat.support.util.JsonUtil

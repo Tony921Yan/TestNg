@@ -13,14 +13,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="ee598944-87aa-46bd-8e93-3d4e461ef5e8" />
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="mavenHome" value="$PROJECT_DIR$/../../JetBrains/IntelliJ IDEA 2020.2/plugins/maven/lib/maven3" />
-        <option name="userSettingsFile" value="D:\Maven\apache-maven-3.6.3\conf\settings.xml" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../Documents/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -38,13 +35,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4046455" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager" selected="TestNG.AddressPageTest.test">
+  <component name="RunManager" selected="TestNG.AddressPageTest">
     <configuration name="ActivityGetTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ifat-test" />
       <extension name="coverage">
@@ -57,6 +58,23 @@
       <option name="MAIN_CLASS_NAME" value="com.meiji.test.http.lottery.activity.ActivityGetTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddressPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ifat-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meiji.test.http.lottery.address.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meiji.test.http.lottery.address" />
+      <option name="MAIN_CLASS_NAME" value="com.meiji.test.http.lottery.address.AddressPageTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -81,8 +99,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MysqlDebug" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ifat-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.meiji.test.debug.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.meiji.test.debug" />
+      <option name="MAIN_CLASS_NAME" value="com.meiji.test.debug.MysqlDebug" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.AddressPageTest" />
+        <item itemvalue="TestNG.MysqlDebug" />
         <item itemvalue="TestNG.AddressPageTest.test" />
         <item itemvalue="TestNG.ActivityGetTest.test" />
       </list>
@@ -100,6 +137,13 @@
       <workItem from="1648710625765" duration="2737000" />
       <workItem from="1648714651435" duration="561000" />
       <workItem from="1648715252810" duration="33000" />
+      <workItem from="1648715582016" duration="1608000" />
+      <workItem from="1648726986048" duration="530000" />
+      <workItem from="1648864615828" duration="1425000" />
+      <workItem from="1648866141907" duration="31000" />
+      <workItem from="1650037486711" duration="38000" />
+      <workItem from="1650037535726" duration="31000" />
+      <workItem from="1654597315371" duration="1476000" />
     </task>
     <task id="LOCAL-00001" summary="删除敏感信息">
       <created>1648711903047</created>

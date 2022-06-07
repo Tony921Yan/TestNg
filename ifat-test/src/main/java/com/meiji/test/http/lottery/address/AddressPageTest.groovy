@@ -1,5 +1,4 @@
 package com.meiji.test.http.lottery.address
-
 import com.meiji.biz.request.http.lottery.address.AddressPage
 import com.miyuan.ifat.support.test.BaseTest
 import com.miyuan.ifat.support.test.TestContext
