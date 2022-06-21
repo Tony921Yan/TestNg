@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="123">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/083025a2-163f-4bcf-88c7-d453f72cb5a7-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/0d8b6f0d-8618-4ca9-8633-0b49563a16d0-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/583854df-ce7d-44f4-b9ae-ccb06844547a-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/8612b7bc-abb5-4eea-a2bf-3d2798d124c3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9ece489e-b947-40ff-90dc-b1637dbb8be7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/c8659738-c037-45ee-b839-ab76179b9a5b-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/ef8f9163-b761-4f07-a41a-832707321c82-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/fa9d5f6f-36db-4f17-a3ab-7397535d8f01-container.json" afterDir="false" />
+    <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="ceshi">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,9 +49,22 @@
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4046455" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="TestNG.AddressPageTest">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ActivityGetTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ifat-test" />
       <extension name="coverage">
@@ -159,7 +163,7 @@
       <workItem from="1650037486711" duration="38000" />
       <workItem from="1650037535726" duration="31000" />
       <workItem from="1654597315371" duration="4346000" />
-      <workItem from="1655797842338" duration="462000" />
+      <workItem from="1655797842338" duration="1487000" />
     </task>
     <task id="LOCAL-00001" summary="删除敏感信息">
       <created>1648711903047</created>
@@ -203,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654598874754</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="ceshi">
+      <created>1655798573364</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655798573364</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,7 +225,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -229,7 +252,8 @@
     </ignored-roots>
     <MESSAGE value="删除敏感信息" />
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="ceshi" />
+    <option name="LAST_COMMIT_MESSAGE" value="ceshi" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
