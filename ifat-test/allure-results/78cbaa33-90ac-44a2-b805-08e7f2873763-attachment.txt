@@ -1,0 +1,8 @@
+{
+  "timestamp" : "2022-06-21T08:23:07.192+00:00",
+  "path" : "/lottery/user/address/page",
+  "status" : 503,
+  "error" : "Service Unavailable",
+  "message" : "",
+  "requestId" : "e942d03c-174103"
+}
