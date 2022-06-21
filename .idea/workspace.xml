@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="TESTng">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="测试" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +149,7 @@
       <workItem from="1650037535726" duration="31000" />
       <workItem from="1654597315371" duration="4346000" />
       <workItem from="1655797842338" duration="2851000" />
-      <workItem from="1655800717974" duration="2964000" />
+      <workItem from="1655800717974" duration="3554000" />
     </task>
     <task id="LOCAL-00001" summary="删除敏感信息">
       <created>1648711903047</created>
@@ -216,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655800993655</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="测试">
+      <created>1655804843816</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1655804843816</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -256,7 +261,8 @@
     <MESSAGE value="123" />
     <MESSAGE value="ceshi" />
     <MESSAGE value="TESTng" />
-    <option name="LAST_COMMIT_MESSAGE" value="TESTng" />
+    <MESSAGE value="测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
