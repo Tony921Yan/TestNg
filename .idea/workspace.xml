@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="TESTng">
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/046a3840-d002-4978-b7a7-978ea8caa56c-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/0fba64d8-bb86-46db-99b8-42c409a7f2fa-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/78cbaa33-90ac-44a2-b805-08e7f2873763-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/8f0d76a8-edef-4f86-8fdd-be20ab26ccb3-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/98f41467-9924-48bc-a840-3d194fb24d90-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b88aacb3-a836-46eb-89ac-21cbb97283ad-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b8bf0331-8fdc-4544-82d1-fd39ffc743c7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d671062a-2533-47c2-9288-f39d2fc6b77a-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -159,6 +151,7 @@
       <workItem from="1650037535726" duration="31000" />
       <workItem from="1654597315371" duration="4346000" />
       <workItem from="1655797842338" duration="2851000" />
+      <workItem from="1655800717974" duration="2964000" />
     </task>
     <task id="LOCAL-00001" summary="删除敏感信息">
       <created>1648711903047</created>
@@ -216,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655799536799</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="TESTng">
+      <created>1655800993655</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1655800993655</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
