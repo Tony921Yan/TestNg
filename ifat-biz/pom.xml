@@ -26,6 +26,14 @@
             <groupId>org.apache.dubbo</groupId>
             <artifactId>dubbo-registry-nacos</artifactId>
         </dependency>
+
+        <dependency>
+            <groupId>BASE64Decoder</groupId>
+            <artifactId>sun.misc.BASE64Decoder</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/sun.misc.BASE64Decoder.jar</systemPath>
+        </dependency>
     </dependencies>
 
     <build>

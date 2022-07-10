@@ -148,6 +148,14 @@
             <artifactId>guice</artifactId>
             <version>4.1.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>BASE64Decoder</groupId>
+            <artifactId>sun.misc.BASE64Decoder</artifactId>
+            <version>1.0</version>
+            <scope>system</scope>
+            <systemPath>${project.basedir}/lib/sun.misc.BASE64Decoder.jar</systemPath>
+        </dependency>
     </dependencies>
 
     <build>

@@ -5,12 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="测试">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifat-biz/ifat-biz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-biz/ifat-biz.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifat-support/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-support/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifat-support/src/main/java/com/miyuan/ifat/support/util/AESUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-support/src/main/java/com/miyuan/ifat/support/util/AESUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifat-test/ifat-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-test/ifat-test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,18 +48,36 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ifat-support/lib" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="模块" />
+    <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4046455" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ifat-support/lib" />
+    </key>
   </component>
   <component name="RunManager" selected="TestNG.AddressPageTest">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ActivityGetTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="ifat-test" />
       <extension name="coverage">
@@ -151,7 +177,10 @@
       <workItem from="1650037535726" duration="31000" />
       <workItem from="1654597315371" duration="4346000" />
       <workItem from="1655797842338" duration="2851000" />
-      <workItem from="1655800717974" duration="6150000" />
+      <workItem from="1655800717974" duration="6571000" />
+      <workItem from="1657272472500" duration="67000" />
+      <workItem from="1657440673776" duration="637000" />
+      <workItem from="1657445640264" duration="2136000" />
     </task>
     <task id="LOCAL-00001" summary="删除敏感信息">
       <created>1648711903047</created>
@@ -223,7 +252,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655804843816</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="测试">
+      <created>1655810721034</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1655810721034</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +276,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="github/main" />
                       </list>
                     </value>
                   </entry>

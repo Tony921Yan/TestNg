@@ -1,6 +1,6 @@
 package com.meiji.biz.util
 import com.miyuan.ifat.support.util.MD5Utils
-import sun.misc.BASE64Encoder
+import Decoder.BASE64Encoder;
 
 class KJSign {
     static String userCode = "MEIJI_API";
