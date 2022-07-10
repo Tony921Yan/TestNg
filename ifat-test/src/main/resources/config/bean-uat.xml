@@ -17,8 +17,8 @@
         <properties  key="host" value ="172.27.2.73:6379,172.27.2.74:6379,172.27.2.75:6379"/>
     </bean>
 
-    <bean name="dingTalk">
-        <properties  key="url" value ="https://oapi.dingtalk.com/robot/send?access_token=affdf320fd5e494447cd4b04041d4b1b2df915dd38b83784efbaf7d55c8998e0"/>
-        <properties  key="secret" value ="SEC5ccf454afeec0a5e7df6754c3f8c2940615716bf6a5cd46d43ceeb57cd335a12"/>
-    </bean>
+<!--    <bean name="dingTalk">-->
+<!--        <properties  key="url" value ="https://oapi.dingtalk.com/robot/send?access_token=affdf320fd5e494447cd4b04041d4b1b2df915dd38b83784efbaf7d55c8998e0"/>-->
+<!--        <properties  key="secret" value ="SEC5ccf454afeec0a5e7df6754c3f8c2940615716bf6a5cd46d43ceeb57cd335a12"/>-->
+<!--    </bean>-->
 </beans>

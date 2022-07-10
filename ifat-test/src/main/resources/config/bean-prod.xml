@@ -4,10 +4,10 @@
         <properties key="scrm" value="https://test.meiji8888.com/"/>
     </bean>
 
-    <bean name="dingTalk">
-      <properties  key="url" value ="https://oapi.dingtalk.com/robot/send?access_token=ea3eb36c5615f84c7cb3a65595f99209d85ae59d7c00a7039720698f1cdd126b"/>
-      <properties  key="secret" value ="SECd409c55b3c50104850580a1fbff0e0d8ff6126e92c753d39c2d00b617894859b"/>
-    </bean>
+<!--    <bean name="dingTalk">-->
+<!--      <properties  key="url" value ="https://oapi.dingtalk.com/robot/send?access_token=ea3eb36c5615f84c7cb3a65595f99209d85ae59d7c00a7039720698f1cdd126b"/>-->
+<!--      <properties  key="secret" value ="SECd409c55b3c50104850580a1fbff0e0d8ff6126e92c753d39c2d00b617894859b"/>-->
+<!--    </bean>-->
 
     <bean name = "mysql-platform-goods">
         <properties  key="url" value ="jdbc:mysql://rm-wz9o80msfb5vxqt28.mysql.rds.aliyuncs.com/meiji_goods"/>
