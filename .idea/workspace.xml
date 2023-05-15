@@ -4,18 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="测试">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="dingdigtalk">
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/032ffc43-7b60-4203-ad03-10e6c642ba42-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/0f33cc90-c5b0-4052-ba06-18377fdd46bc-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2d984ef5-c558-46ed-ba6d-f0f233c6b8fe-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4ab3c4b3-1a8a-414c-9e44-8181f95c846a-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/55bd104d-6300-4c94-9f2a-06d71435b579-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/58b75b45-734b-44ca-983f-4c3607b8caac-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5fe6133f-2ed8-4723-b300-1132255b5d60-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/75585aed-35d1-4411-9ba7-9532ff08e924-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/78b651c3-2348-4204-bdd8-ff8a41a5f2a5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/7eb5439e-9230-4f60-94ab-9703bd624162-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/abff46e8-6f6d-42a1-90fb-ccfc47f29c9c-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b294be4a-a47e-485e-9fee-0cad02fea16d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b6bf7799-85d8-40c0-bac2-f32028af5eab-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e37c04af-7cfd-43f6-8c0b-46d4db1acef6-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e4a54870-966a-4079-b1f9-a5000ec963c7-attachment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/f199d6d2-8307-4cd3-9e3f-a4e3c8b4253c-attachment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ifat-biz/ifat-biz.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-biz/ifat-biz.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifat-support/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-support/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifat-support/src/main/java/com/miyuan/ifat/support/util/AESUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-support/src/main/java/com/miyuan/ifat/support/util/AESUtil.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ifat-test/ifat-test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-test/ifat-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifat-test/src/main/java/com/meiji/test/http/lottery/address/AddressPageTest.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-test/src/main/java/com/meiji/test/http/lottery/address/AddressPageTest.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ifat-test/src/main/resources/testng/uat-lottery.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-test/src/main/resources/testng/uat-lottery.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+    </option>
   </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
@@ -23,8 +44,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="43b0177b-61a2-4d94-99d0-54ee8838c544" />
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -48,32 +74,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ifat-support/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4046455" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ifat-biz" />
       <recent name="$PROJECT_DIR$/ifat-support/lib" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.AddressPageTest">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -151,13 +176,16 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.AddressPageTest" />
-        <item itemvalue="TestNG.MysqlDebug" />
         <item itemvalue="TestNG.AddressPageTest.test" />
+        <item itemvalue="TestNG.MysqlDebug" />
         <item itemvalue="TestNG.ActivityGetTest.test" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>$PROJECT_DIR$/../.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="" />
@@ -180,7 +208,13 @@
       <workItem from="1655800717974" duration="6571000" />
       <workItem from="1657272472500" duration="67000" />
       <workItem from="1657440673776" duration="637000" />
-      <workItem from="1657445640264" duration="2136000" />
+      <workItem from="1657445640264" duration="6114000" />
+      <workItem from="1659689021162" duration="1619000" />
+      <workItem from="1671011132226" duration="1080000" />
+      <workItem from="1671013555277" duration="597000" />
+      <workItem from="1671014509217" duration="372000" />
+      <workItem from="1671014888461" duration="959000" />
+      <workItem from="1684140172796" duration="2601000" />
     </task>
     <task id="LOCAL-00001" summary="删除敏感信息">
       <created>1648711903047</created>
@@ -259,7 +293,28 @@
       <option name="project" value="LOCAL" />
       <updated>1655810721034</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="修复JDK版本问题">
+      <created>1657448056859</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1657448056859</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修复JDK版本问题">
+      <created>1657448737015</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1657448737015</updated>
+    </task>
+    <task id="LOCAL-00014" summary="dingdigtalk">
+      <created>1657452390580</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1657452390580</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -271,12 +326,17 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
               <option name="FILTERS">
                 <map>
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="github/main" />
+                        <option value="origin/master" />
                       </list>
                     </value>
                   </entry>
@@ -300,7 +360,9 @@
     <MESSAGE value="ceshi" />
     <MESSAGE value="TESTng" />
     <MESSAGE value="测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试" />
+    <MESSAGE value="修复JDK版本问题" />
+    <MESSAGE value="dingdigtalk" />
+    <option name="LAST_COMMIT_MESSAGE" value="dingdigtalk" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

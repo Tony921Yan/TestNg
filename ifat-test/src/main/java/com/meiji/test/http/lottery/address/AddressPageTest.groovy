@@ -16,6 +16,6 @@ class AddressPageTest extends BaseTest {
     @Test(description = "用户收货地址列表", groups = ["prod", "uat"], testName = "AddressPage",
             dataProvider = "dataProvider", dataProviderClass = TestData.class)
     public void test(TestContext testContext) {
-        addressPage.invoke(testContext).baseAssert(testContext)
+        addressPage.invoke(testContext).baseAssert(testContext).specialAssert(testContext)
     }
 }
