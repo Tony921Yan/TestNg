@@ -4,234 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="更新测试">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-biz/src/main/java/com/meiji/biz/request/http/lottery/address/Page.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-biz/src/main/java/com/meiji/biz/request/http/lottery/address/TransporterList.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/012eb449-f04a-4c31-88cd-52b167f6bf53-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/027c91c0-0385-4f74-bf89-f5e4af025966-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/049f0cd9-4e45-471e-b3ae-349c086ecda9-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/05deafa3-90b5-4bcb-b5a2-36fe5e25a538-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/0749269f-08f3-4121-a4ac-f8c0d9ebddd2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/0bd4e5c7-aeab-4c57-8c9e-aa06c614b338-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/0d22ed1a-2a01-497c-95ae-7d20029de0d4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/0de41404-012a-4430-8e4f-8cd27c1b7d99-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/0fbd4516-8163-40a2-942a-ebd3a37af223-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/1069287f-ae29-4435-90f3-9626c0bb3c35-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/13dbd63a-2d97-4feb-bde1-c046fd31cf56-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/16514fb6-57b2-4932-9080-62f2984770dd-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/16a8435f-e594-476d-9ea0-1dbca1bd6908-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/177f1b83-9fae-440c-8b5e-40d0c9ad16f3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/1ad533ff-217a-4450-b8df-a42bf194cdcc-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/1ad53818-d1c0-4b32-8a5e-df1d4236f843-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/1b4112a4-7c36-40dc-82ef-ae97c0752a1e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/1c332985-0174-4173-b8ad-a637b59988e3-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/1fd73a36-09a5-4642-bc99-5220d962225d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/214e91f1-26df-4b25-918c-7c9ac029470b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2183b2cc-7e71-4784-a75b-79e055e2a529-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2622a1e5-98f7-4baa-9c75-3a4eddf66c5f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/26aa80cf-8cd1-4314-b942-aa9c8f1c7f42-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/26db3ab7-1482-4c28-aba9-351aa4aa35b4-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/28844591-6996-4328-bf73-eb4e213fdffd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/290ef99e-2e4b-4a6b-a912-0c89d62b682a-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/29e4a638-53e0-4c71-b444-c9a720d40c54-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/29e9a8d1-fdde-43ce-8733-87f40cfe2954-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2a92ff60-66b6-4382-9279-c229bdb84dd5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2b0778ac-ad28-4ab6-b537-caf3bac42e3f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2c42bcbe-9879-43bb-86d0-d05faa9cc724-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2d028c0f-bf85-499a-a296-c968c1955e11-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2d11655c-ce05-489a-88f3-fa2d53632163-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2d2b7f9a-40a1-4c10-9e06-4ca840faa634-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2e152de7-1ed3-48e4-a4b1-d3758a55f7ef-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/2f284427-20df-4e83-bc97-c8727c8c0db8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/315809fd-b8cb-4d7f-8fb9-ae55dc9413bd-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/318efe60-2b3b-45cb-9cff-9e4f198e57e9-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/327e4da3-c545-4dda-b237-0543e00ef8b0-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/360232d7-89f8-43b7-9ad5-4785099b1e4a-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/362818f2-add2-451d-bc6c-c9dd9e5544a9-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/3693fb34-1e73-4d62-bfd4-e41e12e2c6fb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/36a86143-bb38-4d76-b635-1cbf834c0ea6-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/3765b387-45a8-4855-aba1-626cdd3cbee8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/38ec7222-b4c3-4fb2-8b95-2280c8ad72b3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/39157511-da1b-4186-a9e4-33b0250acbc7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/39522275-c469-47d1-930b-768c83eb75be-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/3b98cdd7-225f-44d3-8379-6aa44292725a-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/3d914207-54db-453f-9f2b-886cd7d43230-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/40f64c39-bc13-48d0-b617-b8be9704c9fb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/42dd7576-a397-40ad-9516-6e4dad0edac5-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/449385c3-0a8b-4513-8ad4-0ccc500ceca6-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/44ed0ff8-f4f3-4c24-b3ec-abf05d83bb70-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4633f45b-0695-4eaf-ad33-3da70ce3e49e-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/472bba73-16dd-48cd-8f33-d61d5d2cb112-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/47304d1f-83bc-4ab2-8a1b-d2c6747e9d54-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/498a9d1d-dff0-4c25-88f4-607a93b3ae27-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4a126e3b-d694-4b43-a67a-d5fce96b4b72-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4a62b554-e494-4676-a188-147adbd85327-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4ab358b2-d682-47a0-8dc1-5081412ac22c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4b01e931-dd5d-49ae-9879-aa2c3829f5ab-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4b301b95-e653-4b2d-80c6-bce72196d722-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4c198475-26e8-41d7-8dbd-d1851a6f3cc2-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4db341ea-6043-4590-b708-1298f867ebaf-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4e01dd5e-fa7a-4a59-82f4-f238fd92f3a2-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4e5e6f3e-a329-4884-91e5-899787a84e69-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/4fd2a0e7-ab21-4131-9ab1-78146928127a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/513c83f0-a4d4-4e5e-8e5b-594f10ddf7da-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5158a4a5-7a0d-49d8-9862-06b9959b0b75-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/541ba0d8-ca3d-4d3c-8023-93658df7bd1f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/58b9c94e-219a-48db-913c-c7a722072571-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/58faa47b-9e5c-46ea-a246-8e62dbbb8ef5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5926a9de-db10-4a14-bec5-601dc62a5104-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5a5891d6-e8f7-409d-9ee3-b623f2ca6af3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5c3d9074-f67e-490e-b694-3701087193bf-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5cca3371-3a8d-43a9-8fdb-2e54de08aaf1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5cd86d69-10ff-4a31-970a-f963cc03c055-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5cdcbc47-c464-415d-b499-bd1f5a0d7db7-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5e927e82-bde9-4a52-b7ff-ae52b7a5ad6a-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5ecbafe4-df90-449e-9ee3-6011a520b497-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5ee88e11-2496-4d4e-86e2-812854e3e1ea-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5f77ad33-be74-4f84-a7df-40526b04ef23-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5f9b6b10-75a5-4fe8-a40c-7022ecb14401-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/5fe043aa-0c20-4e74-8908-6a5af1814870-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/6571c8b1-65d9-4598-b3ee-5d0ccd4a7df1-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/65a1929d-eb6a-44d4-962f-c0d563b0cd60-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/6636d2eb-de73-45b6-8dac-315d308d4bda-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/67a9d54b-f39f-4f13-ae06-f52bb8bf19cc-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/6930c2f6-768e-40d4-ab06-9047737e8522-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/69a6a0a0-ee47-4ddb-aa58-04550ec5db44-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/69f75fc6-ef0f-4a8c-9a32-3d6d2d26e43d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/6c487d9f-81d2-4f75-bef7-596a1d622568-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/6ce8d8fd-0f07-4453-a916-e67da24367b4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/6e97a2a1-e58a-4b65-8e78-3a343595da7a-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/6f431274-bccf-456a-be13-9075fa56b9bb-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/7099ebaf-b086-4e3b-ba5c-e445df364626-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/71e7c4e4-730b-4d1d-90bf-fd65b8876506-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/724b50e5-a56d-49c1-a801-049ea7701bf9-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/73bb9b9d-bc51-45dd-8a7d-32a5318f049f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/74695a36-a768-4a2e-9ff0-d5bd13a380a3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/76251330-8cc5-4549-aae1-1b01fa698930-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/7696645a-c8cc-4440-a63e-7a4c72012576-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/771a77fa-304f-4ecd-b429-2268fcf5e6e3-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/774100b7-9208-4f13-93d7-99c96301b977-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/77449ac5-9163-4ee6-a4b4-0f4ffdb4267e-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/77922ef3-2aab-4a3a-8199-793383d7242c-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/77b39a0e-b3b8-4301-ae7a-17637529a4fd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/7ad5c6c5-2154-4711-ae60-749a7f81c4b6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/7d3a1058-8eda-4b18-86b4-645c69e8c454-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/7f0f2ae2-9d0f-4fb6-aca4-2e0d29e28f14-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/80f298ef-efe7-450a-bdda-785518c536ff-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/81b4db51-37ca-4942-b5e3-cc5cf397ee8b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/8291e887-f154-41d4-8789-a1f4b5338ed9-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/82a39b2b-2390-46d2-ac40-8f8bbe74bcaf-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/82ca62ed-4cd0-4e2f-adcd-f987d4b277d6-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/8531a490-ee2c-466f-a907-39d7dac3a461-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/8a19b8c4-7e57-44bb-8e6d-b00b061d18c5-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/8ac785e8-9a09-4414-9e67-e9c6d59f244c-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/8ba28fbc-d4d8-4b90-8903-a3ee919fdcd0-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/8d75f5fb-c0a0-459a-be63-95d3fe2acc2d-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/8d7ed265-2cd7-4662-9928-ef6552f33597-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/93df8ce8-93ce-4ff0-89e0-1fe694b58817-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/963a79bb-8dd2-4e2a-b3cb-90b2ae024b7e-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/97548438-9230-491d-9adb-06e41bd8ded4-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/99534ddf-bec3-467a-a910-e19cef5c1f10-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/999a4549-1aa8-4e8d-b44d-a1e3db5e4cc4-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9a110067-c571-4dad-9d1b-ef1132664f00-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9af7929a-8cfb-45ad-9839-6b103f80fcbf-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9bbe8601-5982-42c3-bf66-1ae6ab54dd59-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9c0b2f45-77a2-4c37-ac2a-d95a1d9f2364-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9c8e85d9-c572-4ddc-8954-42d4b4c08677-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9d53f61f-4b1c-411f-bbca-4f9d866d41a1-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9d758c37-7ed4-409e-b8f2-0b88e69b8b5f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9d931128-ba66-459c-99c8-78d954d339bb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9db111fb-2692-4b14-8e22-7ff18ba36062-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/9fdfd0f6-2d44-41fe-842e-b9c82e7df3d9-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/a156eff7-bc47-4a56-825b-fb1e63387c00-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/a2d534e1-75ba-41a8-837f-a34122a43a96-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/a3721640-1feb-4002-a16f-d2b2f936b7a9-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/a77a43d2-0bf3-49bf-b501-ad3efa1aa2e2-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/a922eb69-3330-494c-9126-9fe39769aec8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/aab74e35-ca94-4322-9925-22ecb63119c8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/ace227b0-b363-488c-b818-0455fab3d163-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/ad737ab0-2d64-4603-b184-4a6871aa0f79-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/ae20a20f-a9ba-4ea0-9d71-ff5517703ce8-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/af2a550f-c089-4858-b8a4-db5b455b25c7-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/afe7966c-362f-4ff8-907c-4f61da1823cd-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b15c0b9a-d42a-46e7-8078-6f8f72266536-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b454c6d8-30be-43c5-8c89-cd8aa5325f7f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b56ad95a-1914-4e12-bd3b-b0ca5d12cd2e-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b73d092b-0e7f-463b-b70f-99fbbf6da5f5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b7d1fa6b-8536-4e9e-95d5-888143fcdb5f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b8a1a1b0-e0e8-4faf-9816-26216e675408-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/b8c48daa-bea0-4448-8c9d-3b1c758e4c06-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/ba00916c-4df4-4d13-8137-cea06fbaa18c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/bac35a40-9bfb-4619-880a-503014127def-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/bc1b0618-6ee3-41f6-952f-2bd07f69ccf7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/bda3b9eb-c7a4-44ef-be67-3343a46e59ec-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/beaef8c8-cac2-4fe6-a311-dd16ae83bda0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/c739be1e-0dd3-4d15-b26f-747d690c9d07-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/c8abb00c-f28b-4a38-8f19-b87622b0747f-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/c9995344-d0a4-48f1-b315-670f74daf841-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/cac5e842-947f-4240-810a-29e9c82bda22-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/cccbab11-9b2c-465c-85fd-1afe2e2d31be-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d0c3b3fa-5e47-49c9-96f5-5aeafa57a584-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d273c7b2-fcf0-403c-a354-494fcd59ea0f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d3aa8e6e-d8fc-41f3-9a63-cd47a12e2ce2-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d418dfc1-d167-43b2-8dfc-58bd1e3f4c48-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d48dd68a-ba29-4db4-a5be-dc0e5f4774a9-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d5f00618-2ef9-4296-b6c6-7f1c90095e5b-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d65e8b68-577b-4b71-8c77-3b2192675415-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d6ad62c4-422f-46d5-b61c-c73d4bcaba94-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d6bd1425-e81f-4555-b1c2-5ae3e8720df0-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d90a8174-f802-4fe8-8055-903f4986a046-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/d9c50c2d-3b08-479f-b044-0f35baeb1991-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/da77b549-9c75-40c7-88f3-11ea89b1b6bb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/dda49cf4-a1f4-44cd-a80f-2fe7f5ac9931-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/de413d7b-6090-44ae-be20-b4cef3675ac8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/de9524ff-6cc5-427a-8898-40da2bdae7b0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/dee12552-778b-4cc1-a871-787a5708c694-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/df071a8c-8193-4cca-be14-8df4c3f2489f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/df9885f7-d8a6-41f7-8636-b6e059e0e43c-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/dfbc9783-8081-42cf-a1d1-104dba3a6ee1-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e03a9707-5c8e-4fc9-b83b-87a5de0ca785-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e03b7be5-a54c-48a2-bfc8-9a0a41fa415a-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e0d1356a-d1dc-42ef-a24f-8738a0e872b5-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e202d36e-2cfe-4b2f-833e-c9b5f2930612-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e2e06600-3eb9-47ff-8de0-fe4cabf9e63c-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e400d9d2-47d2-41a2-99d2-54b87fd57561-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e4724fd5-1399-4d20-9ba7-b77d679564eb-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e58c4086-cf5e-40cb-812b-e6ba1e6d5e63-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e6be8314-bf4b-4ce9-acd5-bbb88f0fc07d-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e6eb073f-6186-42dc-9297-86491bfe595a-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e7b3f98d-8dee-47a1-a466-5e88cc1c4d77-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e84272c7-4dab-4ba1-8274-6e994bb6a4a7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e94da16a-734b-4900-938a-49dc738f51da-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e9b3a997-2521-4cca-9b9e-a8545f3adc17-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/e9dcb634-efbe-4b10-8786-4d9a8adfb44f-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/eb8370fa-3a1e-4fca-a842-ae16bd3a377d-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/ebed4af6-98db-4fe2-b000-7d49a2e8f686-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/ec622961-0568-48af-a2c8-bac99362e462-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/eddcda19-8c7c-4253-8c14-d250424617c1-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/ee7ea7cf-00a8-4d05-a3fe-aee341d00cd7-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/eed39e03-c5e8-4a23-96d4-cc2d0eaaa40d-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/efe5cfd8-29c7-4f28-8f53-68479b5f8ef0-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/f15fff4a-b891-434e-826c-dd4394241390-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/f2d4c4d2-7ab9-4dd9-b75e-b5320f9c234f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/f373e3a1-9700-4609-a2e6-39567a5b9f20-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/f76f4aff-7f80-4241-bb67-62e31a26c3d3-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/f9958f4e-b00f-4260-a876-69b3f810f22d-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/fb633a5d-a191-4b80-a6b2-709aeb1567e8-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/fb96d1bb-6cfa-4e19-89ea-b04bec21a738-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/fd11ac76-f0c7-4906-9469-5ed81480543c-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/fd4d33a8-fcad-4579-8e7b-dcaa6759c4ce-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/fdde9846-d37b-404c-863c-edc60d3a7efb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/allure-results/ff55c5b7-e9de-425a-9e31-c92adee3e3ee-attachment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/src/main/java/com/meiji/test/http/lottery/address/PageTest.groovy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ifat-test/src/main/java/com/meiji/test/http/lottery/address/TransporterListTest.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifat-biz/src/main/java/com/meiji/biz/request/http/lottery/LotPost.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-biz/src/main/java/com/meiji/biz/request/http/lottery/LotPost.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifat-test/src/main/resources/config/bean-prod.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-test/src/main/resources/config/bean-prod.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifat-test/src/main/resources/config/bean-uat.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-test/src/main/resources/config/bean-uat.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ifat-test/src/main/resources/testng/uat-lottery.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ifat-test/src/main/resources/testng/uat-lottery.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8d944620-0df6-4c69-b660-00d2a237ab96" name="默认变更列表" comment="更新部分接口" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -428,7 +201,7 @@
       <workItem from="1687936784059" duration="491000" />
       <workItem from="1687938408361" duration="10000" />
       <workItem from="1687938422181" duration="4126000" />
-      <workItem from="1687948406820" duration="258000" />
+      <workItem from="1687948406820" duration="568000" />
     </task>
     <task id="LOCAL-00001" summary="删除敏感信息">
       <created>1648711903047</created>
@@ -535,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1684149291832</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="更新部分接口">
+      <created>1687948769593</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1687948769593</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -584,7 +364,8 @@
     <MESSAGE value="修复JDK版本问题" />
     <MESSAGE value="dingdigtalk" />
     <MESSAGE value="更新测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新测试" />
+    <MESSAGE value="更新部分接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新部分接口" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
