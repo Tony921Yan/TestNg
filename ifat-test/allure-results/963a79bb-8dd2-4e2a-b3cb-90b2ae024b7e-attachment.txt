@@ -1,0 +1,20 @@
+{
+  "Cookie" : "token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJhZG1pbiIsImxvZ2luSWQiOjc2LCJyblN0ciI6IkZsYTEyODdhczJCS204SVpCbkszZGEwWFF4ekp1NFFUIiwidXNlcm5hbWUiOiJ5YW5saWFuZyJ9.FzDas9WCnv2ovRQU5M5oT3JWFiz5nvITZo54bW5IH9g",
+  "sec-fetch-mode" : "cors",
+  "referer" : "https://wasp.xboil.cn/",
+  "sec-fetch-site" : "same-origin",
+  "accept-language" : "zh-CN,zh;q=0.9,en;q=0.8",
+  "origin" : "https://wasp.xboil.cn",
+  "request-origion" : "SwaggerBootstrapUi",
+  "userid" : "1",
+  "accept" : "*/*",
+  "sec-ch-ua" : "[{\"Google Chrome\";v=\"113\", \"Chromium\";v=\"113\", \"Not-A.Brand\";v=\"24\"}]",
+  "companyId" : "1",
+  "sec-ch-ua-mobile" : "?0",
+  "authority" : "wasp.xboil.cn",
+  "sec-ch-ua-platform" : "\"macOS\"",
+  "x-requested-with" : "XMLHttpRequest",
+  "content-type" : "application/json",
+  "user-agent" : "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
+  "sec-fetch-dest" : "empty"
+}

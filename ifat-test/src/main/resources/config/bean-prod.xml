@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <beans>
     <bean name = "http">
-        <properties key="scrm" value="https://test.meiji8888.com/"/>
+        <properties key="lottery" value="https://wasp.xboil.cn"/>
     </bean>
 
 <!--    <bean name="dingTalk">-->

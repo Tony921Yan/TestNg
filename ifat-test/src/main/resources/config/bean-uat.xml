@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <beans>
     <bean name = "http">
-        <properties key="lottery" value="https://dev.etool.meiji8888.com"/>
+        <properties key="lottery" value="https://wasp.xboil.cn"/>
         <properties key="lottery2" value="https://test.lottery.meiji8888.com"/>
         <properties key="lottery3" value="https://etool.meiji8888.com/"/>
     </bean>

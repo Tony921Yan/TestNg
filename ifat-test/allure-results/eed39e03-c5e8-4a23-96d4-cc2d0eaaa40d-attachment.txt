@@ -1,0 +1,1050 @@
+{
+  "msg" : "请求成功!",
+  "trace" : null,
+  "data" : {
+    "total" : 96,
+    "dataList" : [ {
+      "id" : 133,
+      "status" : 7,
+      "orderCode" : "O202306271542035825048",
+      "parentOrderCode" : null,
+      "gmtCreate" : "2023-06-27T15:42:04",
+      "orderType" : 0,
+      "skuInfo" : {
+        "id" : null,
+        "spuCode" : null,
+        "oilsType" : null,
+        "skuCode" : null,
+        "values" : null,
+        "pic" : null,
+        "brandName" : null,
+        "bunkerName" : null
+      },
+      "oilDetail" : {
+        "unitPrice" : null,
+        "oilNum" : null,
+        "oilPrice" : 0,
+        "frient" : 0,
+        "totalPrice" : 0
+      },
+      "buyerInfo" : {
+        "id" : 24,
+        "name" : "黄蜂加油用户",
+        "phone" : "13719171786",
+        "address" : "广东省深圳市南山区桃园路",
+        "oilTime" : "2023-06-27 15:45:00",
+        "carName" : null,
+        "areaId" : 440305,
+        "addressDetail" : "广东省深圳市南山区桃园路"
+      },
+      "saleInfo" : {
+        "id" : 1,
+        "name" : "平台销售",
+        "phone" : "18578797683"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 25,
+          "name" : "平台司机",
+          "phone" : "18578797683"
+        },
+        "supercargoInfo" : {
+          "id" : 20,
+          "name" : "平台押运员",
+          "phone" : "13800138009"
+        },
+        "truckNum" : "平台接单车辆"
+      }
+    }, {
+      "id" : 132,
+      "status" : 6,
+      "orderCode" : "O202306201607288544126",
+      "parentOrderCode" : "O202306201607287854527",
+      "gmtCreate" : "2023-06-20T16:07:29",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 100.0,
+        "oilPrice" : 59500,
+        "frient" : 0,
+        "totalPrice" : 59500
+      },
+      "buyerInfo" : {
+        "id" : 47,
+        "name" : "黄蜂加油用户",
+        "phone" : "18025028857",
+        "address" : "广东省清远市清城区S253",
+        "oilTime" : "2023-06-20 16:15:00",
+        "carName" : "车辆1",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区S253"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 130,
+      "status" : 6,
+      "orderCode" : "O202306191927375509835",
+      "parentOrderCode" : "O202306191927374552421",
+      "gmtCreate" : "2023-06-19T19:27:38",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中海油",
+        "bunkerName" : "立沙油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 15000,
+        "oilNum" : 2.0,
+        "oilPrice" : 30000,
+        "frient" : 0,
+        "totalPrice" : 30000
+      },
+      "buyerInfo" : {
+        "id" : 43,
+        "name" : "黄蜂加油用户",
+        "phone" : "17727450640",
+        "address" : "广东省深圳市南山区深南大道9679号",
+        "oilTime" : "2023-06-19 19:30:00",
+        "carName" : "车辆1",
+        "areaId" : 440305,
+        "addressDetail" : "广东省深圳市南山区深南大道9679号"
+      },
+      "saleInfo" : {
+        "id" : 11,
+        "name" : "TonyYan-销售管理",
+        "phone" : "15220252340"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 26,
+          "name" : "黄蜂加油用户",
+          "phone" : "13244741185"
+        },
+        "supercargoInfo" : {
+          "id" : 27,
+          "name" : "靓押运员",
+          "phone" : "13244741189"
+        },
+        "truckNum" : "粤B6613"
+      }
+    }, {
+      "id" : 128,
+      "status" : 1,
+      "orderCode" : "O202306191748152584098",
+      "parentOrderCode" : null,
+      "gmtCreate" : "2023-06-19T17:48:15",
+      "orderType" : 0,
+      "skuInfo" : {
+        "id" : null,
+        "spuCode" : null,
+        "oilsType" : null,
+        "skuCode" : null,
+        "values" : null,
+        "pic" : null,
+        "brandName" : null,
+        "bunkerName" : null
+      },
+      "oilDetail" : {
+        "unitPrice" : null,
+        "oilNum" : null,
+        "oilPrice" : 0,
+        "frient" : 0,
+        "totalPrice" : 0
+      },
+      "buyerInfo" : {
+        "id" : 10,
+        "name" : "黄蜂加油用户",
+        "phone" : "15220252340",
+        "address" : "广东省深圳市罗湖区友谊路47号",
+        "oilTime" : "2023-06-19 18:00:00",
+        "carName" : null,
+        "areaId" : 440303,
+        "addressDetail" : "广东省深圳市罗湖区友谊路47号"
+      },
+      "saleInfo" : {
+        "id" : 1,
+        "name" : "平台销售",
+        "phone" : "18578797683"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 17,
+          "name" : "王一博的铁杆僚机",
+          "phone" : "18620937644"
+        },
+        "supercargoInfo" : {
+          "id" : 18,
+          "name" : "小油车押运员",
+          "phone" : "17789897676"
+        },
+        "truckNum" : "粤A-7644-小"
+      }
+    }, {
+      "id" : 127,
+      "status" : 6,
+      "orderCode" : "O202306191527147711705",
+      "parentOrderCode" : "O202306191525519271039",
+      "gmtCreate" : "2023-06-19T15:27:15",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 126.0,
+        "oilPrice" : 74970,
+        "frient" : 0,
+        "totalPrice" : 74970
+      },
+      "buyerInfo" : {
+        "id" : 94,
+        "name" : "黄蜂加油用户",
+        "phone" : "15382987340",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-19 15:30:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 125,
+      "status" : 6,
+      "orderCode" : "O202306181532523644564",
+      "parentOrderCode" : "O202306181531083436816",
+      "gmtCreate" : "2023-06-18T15:32:52",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 100.0,
+        "oilPrice" : 59500,
+        "frient" : 0,
+        "totalPrice" : 59500
+      },
+      "buyerInfo" : {
+        "id" : 83,
+        "name" : "黄蜂加油用户",
+        "phone" : "13971863968",
+        "address" : "广东省清远市清城区S253",
+        "oilTime" : "2023-06-18 15:45:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区S253"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 123,
+      "status" : 4,
+      "orderCode" : "O202306181228020539304",
+      "parentOrderCode" : null,
+      "gmtCreate" : "2023-06-18T12:28:02",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : null,
+        "bunkerName" : null
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 350.0,
+        "oilPrice" : 208250,
+        "frient" : 0,
+        "totalPrice" : 208250
+      },
+      "buyerInfo" : {
+        "id" : 93,
+        "name" : "黄蜂加油用户",
+        "phone" : "15090026555",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-18 12:30:00",
+        "carName" : null,
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 122,
+      "status" : 6,
+      "orderCode" : "O202306181105156826337",
+      "parentOrderCode" : "O202306181104232009412",
+      "gmtCreate" : "2023-06-18T11:05:16",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 200.0,
+        "oilPrice" : 119000,
+        "frient" : 0,
+        "totalPrice" : 119000
+      },
+      "buyerInfo" : {
+        "id" : 92,
+        "name" : "黄蜂加油用户",
+        "phone" : "18978726567",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-18 11:15:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 120,
+      "status" : 6,
+      "orderCode" : "O202306171807217808655",
+      "parentOrderCode" : "O202306171805467132235",
+      "gmtCreate" : "2023-06-17T18:07:22",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 103.0,
+        "oilPrice" : 61285,
+        "frient" : 0,
+        "totalPrice" : 61285
+      },
+      "buyerInfo" : {
+        "id" : 91,
+        "name" : "黄蜂加油用户",
+        "phone" : "13620527699",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-17 18:15:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 118,
+      "status" : 5,
+      "orderCode" : "O202306171744274472322",
+      "parentOrderCode" : "O202306171743168955833",
+      "gmtCreate" : "2023-06-17T17:44:27",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 504.6,
+        "oilPrice" : 300237,
+        "frient" : 0,
+        "totalPrice" : 300237
+      },
+      "buyerInfo" : {
+        "id" : 90,
+        "name" : "黄蜂加油用户",
+        "phone" : "13477336898",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-17 17:45:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 117,
+      "status" : 4,
+      "orderCode" : "O202306171743365308080",
+      "parentOrderCode" : null,
+      "gmtCreate" : "2023-06-17T17:43:37",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : null,
+        "bunkerName" : null
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 504.6,
+        "oilPrice" : 300237,
+        "frient" : 0,
+        "totalPrice" : 300237
+      },
+      "buyerInfo" : {
+        "id" : 90,
+        "name" : "黄蜂加油用户",
+        "phone" : "13477336898",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-17 17:45:00",
+        "carName" : null,
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 115,
+      "status" : 7,
+      "orderCode" : "O202306171701046999951",
+      "parentOrderCode" : null,
+      "gmtCreate" : "2023-06-17T17:01:05",
+      "orderType" : 0,
+      "skuInfo" : {
+        "id" : null,
+        "spuCode" : null,
+        "oilsType" : null,
+        "skuCode" : null,
+        "values" : null,
+        "pic" : null,
+        "brandName" : null,
+        "bunkerName" : null
+      },
+      "oilDetail" : {
+        "unitPrice" : null,
+        "oilNum" : null,
+        "oilPrice" : 0,
+        "frient" : 0,
+        "totalPrice" : 0
+      },
+      "buyerInfo" : {
+        "id" : 48,
+        "name" : "黄蜂加油用户",
+        "phone" : "15811720650",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-17 17:15:00",
+        "carName" : null,
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 10,
+        "name" : "黄顺清",
+        "phone" : "13889944014"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 114,
+      "status" : 6,
+      "orderCode" : "O202306171648296222757",
+      "parentOrderCode" : "O202306171646558121015",
+      "gmtCreate" : "2023-06-17T16:48:30",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 400.0,
+        "oilPrice" : 238000,
+        "frient" : 0,
+        "totalPrice" : 238000
+      },
+      "buyerInfo" : {
+        "id" : 89,
+        "name" : "黄蜂加油用户",
+        "phone" : "13721620207",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-17 17:45:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 112,
+      "status" : 7,
+      "orderCode" : "O202306171605519295671",
+      "parentOrderCode" : null,
+      "gmtCreate" : "2023-06-17T16:05:52",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : null,
+        "bunkerName" : null
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 10.0,
+        "oilPrice" : 5950,
+        "frient" : 0,
+        "totalPrice" : 5950
+      },
+      "buyerInfo" : {
+        "id" : 79,
+        "name" : "黄蜂加油用户",
+        "phone" : "13824944084",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-17 16:15:00",
+        "carName" : null,
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 111,
+      "status" : 6,
+      "orderCode" : "O202306171558216844011",
+      "parentOrderCode" : "O202306171557102087008",
+      "gmtCreate" : "2023-06-17T15:58:22",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 100.0,
+        "oilPrice" : 59500,
+        "frient" : 0,
+        "totalPrice" : 59500
+      },
+      "buyerInfo" : {
+        "id" : 79,
+        "name" : "黄蜂加油用户",
+        "phone" : "13824944084",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-17 16:00:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 109,
+      "status" : 6,
+      "orderCode" : "O202306171540072072684",
+      "parentOrderCode" : "O202306171538274798789",
+      "gmtCreate" : "2023-06-17T15:40:07",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 10.0,
+        "oilPrice" : 5950,
+        "frient" : 0,
+        "totalPrice" : 5950
+      },
+      "buyerInfo" : {
+        "id" : 79,
+        "name" : "黄蜂加油用户",
+        "phone" : "13824944084",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-17 15:45:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 107,
+      "status" : 6,
+      "orderCode" : "O202306151959387621157",
+      "parentOrderCode" : "O202306151957589437652",
+      "gmtCreate" : "2023-06-15T19:59:39",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 1.0,
+        "oilPrice" : 595,
+        "frient" : 0,
+        "totalPrice" : 595
+      },
+      "buyerInfo" : {
+        "id" : 79,
+        "name" : "黄蜂加油用户",
+        "phone" : "13824944084",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-15 20:00:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 105,
+      "status" : 5,
+      "orderCode" : "O202306151955087178899",
+      "parentOrderCode" : "O202306151825418141429",
+      "gmtCreate" : "2023-06-15T19:55:09",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : "中石油",
+        "bunkerName" : "建兴油仓"
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 2.0,
+        "oilPrice" : 1190,
+        "frient" : 0,
+        "totalPrice" : 1190
+      },
+      "buyerInfo" : {
+        "id" : 85,
+        "name" : "黄蜂加油用户",
+        "phone" : "18365055090",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-15 18:30:00",
+        "carName" : "大车",
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 104,
+      "status" : 7,
+      "orderCode" : "O202306151948342875340",
+      "parentOrderCode" : null,
+      "gmtCreate" : "2023-06-15T19:48:34",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : null,
+        "bunkerName" : null
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 2.0,
+        "oilPrice" : 1190,
+        "frient" : 0,
+        "totalPrice" : 1190
+      },
+      "buyerInfo" : {
+        "id" : 79,
+        "name" : "黄蜂加油用户",
+        "phone" : "13824944084",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-15 20:00:00",
+        "carName" : null,
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    }, {
+      "id" : 102,
+      "status" : 7,
+      "orderCode" : "O202306151106505353216",
+      "parentOrderCode" : null,
+      "gmtCreate" : "2023-06-15T11:06:51",
+      "orderType" : 1,
+      "skuInfo" : {
+        "id" : 5,
+        "spuCode" : "200sup08774",
+        "oilsType" : 0,
+        "skuCode" : "200su-fLKv08774",
+        "values" : "国VI 0#",
+        "pic" : "https://static.xboil.cn/backend/hf-platform/upload/images/1683539845481_6A9C0DCA-1FA9-455d-9D7B-1235BF0EBA7E.png",
+        "brandName" : null,
+        "bunkerName" : null
+      },
+      "oilDetail" : {
+        "unitPrice" : 595,
+        "oilNum" : 100.0,
+        "oilPrice" : 59500,
+        "frient" : 0,
+        "totalPrice" : 59500
+      },
+      "buyerInfo" : {
+        "id" : 79,
+        "name" : "黄蜂加油用户",
+        "phone" : "13824944084",
+        "address" : "广东省清远市清城区七星村委会七星岗村路口对面",
+        "oilTime" : "2023-06-15 11:15:00",
+        "carName" : null,
+        "areaId" : 441802,
+        "addressDetail" : "广东省清远市清城区七星村委会七星岗村路口对面"
+      },
+      "saleInfo" : {
+        "id" : 15,
+        "name" : "黄振标",
+        "phone" : "15323122173"
+      },
+      "driverInfo" : {
+        "driverInfo" : {
+          "id" : 23,
+          "name" : "黄蜂加油用户",
+          "phone" : "15323122173"
+        },
+        "supercargoInfo" : {
+          "id" : 24,
+          "name" : "黄振标的押运员",
+          "phone" : "13800138001"
+        },
+        "truckNum" : "桂P08860"
+      }
+    } ]
+  },
+  "code" : "0",
+  "timestamp" : 1687948433253
+}

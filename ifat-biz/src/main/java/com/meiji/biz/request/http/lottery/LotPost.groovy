@@ -16,23 +16,25 @@ abstract class LotPost {
     LotPost invoke(TestContext testContext){
         String scrmUrl = ResourceUtil.getBeanData("http").get("lottery")
         String url = scrmUrl + api
+        String cookie = "token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsb2dpblR5cGUiOiJhZG1pbiIsImxvZ2luSWQiOjc2LCJyblN0ciI6IkZsYTEyODdhczJCS204SVpCbkszZGEwWFF4ekp1NFFUIiwidXNlcm5hbWUiOiJ5YW5saWFuZyJ9.FzDas9WCnv2ovRQU5M5oT3JWFiz5nvITZo54bW5IH9g"
         Map heads = new HashMap()
-        heads.put("authority", "etool.meiji8888.com")
-        heads.put("sec-ch-ua",'[{"key":"sec-ch-ua","value":"\\" Not;A Brand\\";v=\\"99\\", \\"Google Chrome\\";v=\\"97\\", \\"Chromium\\";v=\\"97\\"","enabled":true}]')
+        heads.put("authority", "wasp.xboil.cn")
+        heads.put("sec-ch-ua",'[{"Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"}]')
         heads.put("sec-ch-ua-mobile", "?0")
-        heads.put("user-agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36")
+        heads.put("user-agent", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36")
         heads.put("request-origion", "SwaggerBootstrapUi")
         heads.put("accept", "*/*")
         heads.put("userid", "1")
+        heads.put("Cookie", cookie)
         heads.put("x-requested-with", "XMLHttpRequest")
         heads.put("content-type","application/json")
         heads.put("companyId", "1")
-        heads.put("sec-ch-ua-platform", '"Windows"')
-        heads.put("origin", "https://etool.meiji8888.com")
+        heads.put("sec-ch-ua-platform", '"macOS"')
+        heads.put("origin", "https://wasp.xboil.cn")
         heads.put("sec-fetch-site", "same-origin")
         heads.put("sec-fetch-mode", "cors")
         heads.put("sec-fetch-dest", "empty")
-        heads.put("referer", "https://etool.meiji8888.com/doc.html")
+        heads.put("referer", "https://wasp.xboil.cn/")
         heads.put("accept-language", "zh-CN,zh;q=0.9,en;q=0.8")
         /*if(TestEnv.getIsGray()=="true"){
             heads.put("isGrayRelease",true)
@@ -64,15 +66,20 @@ abstract class LotPost {
     }
 
     LotPost afterInvoke(TestContext testContext){
+        return this
 
     }
 
     LotPost baseAssert(TestContext testContext){
+//        Result result = testContext.getResult() as Result
+//        assert result.getHttpStatusCode() == 200
         assert testContext.getResponse().code == "0"
+
         return this
     }
 
     LotPost specialAssert(TestContext testContext){
+        return this
     }
 
 }
