@@ -1,0 +1,73 @@
+{
+  "msg" : "请求成功!",
+  "trace" : null,
+  "data" : {
+    "total" : 3,
+    "dataList" : [ {
+      "id" : 3,
+      "code" : "tr11202306065103",
+      "type" : 1,
+      "name" : "测试专用服务商",
+      "status" : 3,
+      "transportAreas" : [ {
+        "provinceCode" : "440000",
+        "provinceName" : "广东省",
+        "cityCode" : null,
+        "cityName" : null,
+        "districtCode" : null,
+        "districtName" : null,
+        "detail" : null
+      } ],
+      "largeOilsTruckCount" : 2,
+      "smallOilsTruckCount" : 2,
+      "driverCount" : 4,
+      "superCarGoCount" : 4,
+      "updateBy" : "ximei",
+      "gmtModified" : "2023-06-19 19:00:33"
+    }, {
+      "id" : 1,
+      "code" : "tr11202304283022",
+      "type" : 1,
+      "name" : "平台运输服务商",
+      "status" : 3,
+      "transportAreas" : [ {
+        "provinceCode" : "440000",
+        "provinceName" : "广东省",
+        "cityCode" : null,
+        "cityName" : null,
+        "districtCode" : null,
+        "districtName" : null,
+        "detail" : null
+      } ],
+      "largeOilsTruckCount" : 0,
+      "smallOilsTruckCount" : 4,
+      "driverCount" : 3,
+      "superCarGoCount" : 2,
+      "updateBy" : "yuanyuan",
+      "gmtModified" : "2023-06-19 17:57:56"
+    }, {
+      "id" : 2,
+      "code" : "tr11202305081330",
+      "type" : 1,
+      "name" : "广东翔基运输优先公司",
+      "status" : 3,
+      "transportAreas" : [ {
+        "provinceCode" : "440000",
+        "provinceName" : "广东省",
+        "cityCode" : "440600",
+        "cityName" : "佛山市",
+        "districtCode" : null,
+        "districtName" : null,
+        "detail" : null
+      } ],
+      "largeOilsTruckCount" : 0,
+      "smallOilsTruckCount" : 1,
+      "driverCount" : 1,
+      "superCarGoCount" : 1,
+      "updateBy" : "yuanyuan",
+      "gmtModified" : "2023-06-07 15:33:00"
+    } ]
+  },
+  "code" : "0",
+  "timestamp" : 1687950894238
+}
